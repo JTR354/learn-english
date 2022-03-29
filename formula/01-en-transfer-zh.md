@@ -58,8 +58,14 @@
 >真正的响应式,高速编译的渲染系统
 - 性能出色
 - 经过编译器优化,完全响应式的渲染系统,几乎不需要手动优化
+- optimize 优化
+- rarely requires 几乎不需要
+- manual 手动
 
 >## Versatile
 >A rich, incrementally adoptable ecosystem that scales between a library and a full-featured framework.
 >一个丰富的, 高速增长的生态系统和可伸缩的库和功能齐全的框架
-
+- 功能丰富
+- 拥有丰富的,可渐进式集成的生态系统, 可以根据规模在仅使用一个库和使用整套框架间切换自如.
+- incrementally 可集成的
+- adoptable 渐进式
