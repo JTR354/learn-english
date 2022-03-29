@@ -34,6 +34,7 @@
 
 
 ## 牛刀小试
+
 >The Progressive JavaScript Framework
 >渐进式javascript框架
 - 渐进式JavaScript框架
@@ -47,11 +48,16 @@
 >用 iAPI 和 world-class 文档 来 构建 顶级标准的HTML,CSS和JavaScript
 - 易学易用
 - 基于标准HTML,CSS和JavaScript构建, 拥有直观的API和世界一流的文档.
+- Builds on top (基于构建)
+- intuitive 直观的
+- world-class 世界一流的
 
 
 >## Performant
 >Truly reactive, compiler-optimized rendering system that rarely requires manual optimization.
 >真正的响应式,高速编译的渲染系统
+- 性能出色
+- 经过编译器优化,完全响应式的渲染系统,几乎不需要手动优化
 
 >## Versatile
 >A rich, incrementally adoptable ecosystem that scales between a library and a full-featured framework.
