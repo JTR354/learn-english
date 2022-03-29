@@ -38,4 +38,17 @@
 >渐进式javascript框架
 
 >An approachable, performant and versatile framework for building web user interfaces.
->一个用于构建weba,高效的,v的框架
+>一个用于构建web界面的a,高效的,v的框架
+
+>## Approachable
+>Builds on top of standard HTML, CSS and JavaScript with intuitive API and world-class documentation.
+>用 iAPI 和 world-class 文档 来 构建 顶级标准的HTML,CSS和JavaScript
+
+>## Performant
+>Truly reactive, compiler-optimized rendering system that rarely requires manual optimization.
+>真正的响应式,高速编译的渲染系统
+
+>## Versatile
+>A rich, incrementally adoptable ecosystem that scales between a library and a full-featured framework.
+>一个丰富的, 高速增长的生态系统
+
