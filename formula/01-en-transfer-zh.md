@@ -36,13 +36,18 @@
 ## 牛刀小试
 >The Progressive JavaScript Framework
 >渐进式javascript框架
+- 渐进式JavaScript框架
 
 >An approachable, performant and versatile framework for building web user interfaces.
 >一个用于构建web界面的a,高效的,v的框架
+- 一款用于构建Web界面, 易学易用, 性能出色且功能丰富的框架
 
 >## Approachable
 >Builds on top of standard HTML, CSS and JavaScript with intuitive API and world-class documentation.
 >用 iAPI 和 world-class 文档 来 构建 顶级标准的HTML,CSS和JavaScript
+- 易学易用
+- 基于标准HTML,CSS和JavaScript构建, 拥有直观的API和世界一流的文档.
+
 
 >## Performant
 >Truly reactive, compiler-optimized rendering system that rarely requires manual optimization.
@@ -50,5 +55,5 @@
 
 >## Versatile
 >A rich, incrementally adoptable ecosystem that scales between a library and a full-featured framework.
->一个丰富的, 高速增长的生态系统
+>一个丰富的, 高速增长的生态系统和可伸缩的库和功能齐全的框架
 
