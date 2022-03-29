@@ -26,7 +26,16 @@
 	- 分块, 以介词为界最好划分
 	- 倒序翻译
 - Rule2 :  并列时 
-	- 不用倒序
+	- 主语并列
+	- 谓语并列
+	- 宾语并列
 
 ----
- 
+
+
+## 牛刀小试
+>The Progressive JavaScript Framework
+>渐进式javascript框架
+
+>An approachable, performant and versatile framework for building web user interfaces.
+>一个用于构建weba,高效的,v的框架
