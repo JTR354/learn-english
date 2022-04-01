@@ -85,7 +85,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "formula/01-en-transfer-zh.md"
+              }
             }
           }
         ]
