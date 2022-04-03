@@ -10,3 +10,16 @@
 	- [ ] 公式回顾汉译英
 - [ ] 语法
 - [ ] 听口
+
+### Vuejs官网阅读
+- [ ] Getting Started
+	- [ ] Introduction
+	- [ ] Quick Start
+- [ ] Essentials
+- [ ] Components In-Depth
+- [ ] Reusability
+- [ ] Built-in Components
+- [ ] Scaling Up
+- [ ] Best Practices
+- [ ] TypeScript
+- [ ] Extra Topics
