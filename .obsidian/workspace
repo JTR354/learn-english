@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "formula/01-en-transfer-zh.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 209
   },
   "right": {
     "id": "f37a3027e7870c2b",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "formula/01-en-transfer-zh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "formula/01-en-transfer-zh.md"
               }
             }
           }
@@ -99,7 +99,7 @@
   },
   "active": "6bd4417d14fab376",
   "lastOpenFiles": [
-    "README.md",
-    "formula/01-en-transfer-zh.md"
+    "formula/01-en-transfer-zh.md",
+    "README.md"
   ]
 }
