@@ -29,7 +29,7 @@
 - [ ] Essentials
 	- [ ] Creating an Application
 	- [ ] Template Syntax
-	- [ ] Reactivty Fundamentals
+	- [ ] Reactivtiy Fundamentals
 	- [ ] Computed Properties
 	- [ ] Class and Style Bindings
 	- [ ] Conditional Rendering
