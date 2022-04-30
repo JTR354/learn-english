@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "grammar/05-从句特训.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "grammar/05-从句特训.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "grammar/05-从句特训.md"
+                "file": "README.md"
               }
             }
           }
@@ -99,8 +99,8 @@
   },
   "active": "6bd4417d14fab376",
   "lastOpenFiles": [
-    "grammar/05-从句特训.md",
     "README.md",
+    "grammar/05-从句特训.md",
     "grammar/01-定语从句.md",
     "grammar/03-名词性从句.md",
     "grammar/02-状语从句.md",
