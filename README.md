@@ -18,6 +18,7 @@
 	- [x] 同位语,倒装与强调
 	- [ ] 名词数量
 	- [x] 被动精讲
+	- [ ] 动词精讲
 	- [ ] 语法综合训练·二阶
 	- [ ] 语法综合训练·四阶
 - [ ] 听口
@@ -30,7 +31,7 @@
 	- [ ] Creating an Application
 	- [ ] Template Syntax
 	- [ ] Reactivtiy Fundamentals
-	- [ ] Computed Properties
+- [ ] Computed Properties
 	- [ ] Class and Style Bindings
 	- [ ] Conditional Rendering
 	- [ ] List Rendering
