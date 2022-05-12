@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "grammar/08-动词精讲.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "grammar/08-动词精讲.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "grammar/08-动词精讲.md"
               }
             }
           }
@@ -99,6 +99,7 @@
   },
   "active": "6bd4417d14fab376",
   "lastOpenFiles": [
+    "grammar/08-动词精讲.md",
     "README.md",
     "grammar/07-被动精讲.md",
     "grammar/01-定语从句.md",
